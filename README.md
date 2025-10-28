@@ -36,14 +36,6 @@ Welcome to my GitHub profile! I love creating clean, user-friendly web apps and 
 
 </div>
 
----
-
-## 💼 Projects I'm Proud Of
-- 📝 *YouTube Notes App* — Take notes while watching videos  
-- 🌐 *Portfolio Website* — My personal web showcase  
-- 🧮 *JS Calculator* — Simple but sleek calculator app  
-
----
 
 ## 🤝 Connect with Me
 <div align="center">
