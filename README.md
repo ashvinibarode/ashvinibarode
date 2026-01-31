@@ -27,16 +27,6 @@ Welcome to my GitHub profile! I love creating clean, user-friendly web apps and 
 </div>
 
 ---
-
-## 📈 GitHub Stats
-<div align="center">
-
-![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvinibarode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvinibarode&layout=compact&theme=radical)
-
-</div>
-
-
 ## 🤝 Connect with Me
 <div align="center">
 
