@@ -1,63 +1,46 @@
-# 👋 Hey there, I'm ashvini!  
+# 👋 Hey there, I'm Ashvini!
 
-### Java Full Stack Developer | Spring Boot | React | MySQL | REST APIs | AI Integration 
+### Java Full Stack Developer | Spring Boot | React | MySQL | REST APIs
 
-I'm a Computer Science student passionate about building scalable web  applications. Currently focusing on Java Full Stack Development, AI integration, and solving Data Structures & Algorithms problems.
+I'm a Computer Science student passionate about building scalable web applications using Java Full Stack technologies. I enjoy developing real-world applications and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
-## 🚀 Projects
-
-### 💼 Career Boost
-
-* AI Resume Analyzer
-* Resume Builder
-* Job Recommendation System
-* Spring Boot + React + MySQL + JWT
-
-### 💰 Finance Tracker
-
-* Expense & Income Management
-* AI Spending Insights
-* Budget Analytics
-* Spring Boot + React + MySQL
-
-### 📱 Face Detection Attendance
-
-* Android Application
-* Firebase Authentication
-* Firebase Firestore
-* Face Detection
-* Attendance Reports
+---
 
 ## 💻 Tech Stack
 
-* Java
-* Spring Boot
-* Spring Security
-* Hibernate/JPA
-* React
-* JavaScript
-* HTML
-* CSS
-* MySQL
-* Firebase
-* Git & GitHub
-* REST APIs
+- Java
+- Spring Boot
+- Spring Security
+- Hibernate/JPA
+- React
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Firebase
+- Git & GitHub
+- REST APIs
 
-## 📚 Currently Learning
+---
 
-* Spring AI
-* Docker
-* Deployment
-* System Design
+## 🌱 Currently Learning
 
-## 🏆 Achievements
+- Spring AI
+- Docker
+- Deployment
+- System Design
 
-* Solved 300+ HackerRank Problems
-* Java Certification
-* SQL Certification
-* NPTEL AI Certification
+---
 
 ## 📫 Connect With Me
 
-* LinkedIn
-* Email
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashvini-barode-7028592ab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:Abarode7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
