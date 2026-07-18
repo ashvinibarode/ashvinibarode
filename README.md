@@ -29,7 +29,6 @@ MCA student at Sage University, Bhopal, focused on building scalable, secure bac
 | **Personal Finance Tracker** | Spring Boot, MySQL, Chart.js | Full-stack expense tracker with REST APIs and live analytics dashboards |
 | **FaceAttend** | Android, Firebase, Google ML Kit | Face-recognition attendance app with real-time Firebase sync |
 
-*(Update the links above once repos are public/renamed — happy to help write individual repo READMEs too.)*
 
 ---
 
