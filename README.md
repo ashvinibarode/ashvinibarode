@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Ashvini!
 
-### Java Full Stack Developer | Spring Boot | React | MySQL | REST APIs
+### Java Backend Developer | Spring Boot | MySQL | REST APIs
 
-I'm a Computer Science student passionate about building scalable web applications using Java Full Stack technologies. I enjoy developing real-world applications and continuously improving my problem-solving skills through Data Structures & Algorithms.
+I'm a Computer Science student passionate about building scalable web applications using Java  technologies. I enjoy developing real-world applications and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
 ---
 
@@ -12,10 +12,6 @@ I'm a Computer Science student passionate about building scalable web applicatio
 - Spring Boot
 - Spring Security
 - Hibernate/JPA
-- React
-- JavaScript
-- HTML
-- CSS
 - MySQL
 - Firebase
 - Git & GitHub
