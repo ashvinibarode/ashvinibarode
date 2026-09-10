@@ -26,7 +26,7 @@ MCA student at Sage University, Bhopal, focused on building scalable, secure bac
 | Project | Stack | What it does |
 |---|---|---|
 | **[CareerBoost](https://idyllic-pothos-75d196.netlify.app/)** | Java 17, Spring Boot, Spring AI + Gemini, MySQL | AI-powered career assistant that generates personalized guidance using Gemini via Spring AI |
-| **Personal Finance Tracker** | Spring Boot, MySQL, Chart.js | Full-stack expense tracker with REST APIs and live analytics dashboards |
+| **FinVision** | Spring Boot, MySQL, Chart.js | Full-stack expense tracker with REST APIs and live analytics dashboards |
 | **FaceAttend** | Android, Firebase, Google ML Kit | Face-recognition attendance app with real-time Firebase sync |
 
 
